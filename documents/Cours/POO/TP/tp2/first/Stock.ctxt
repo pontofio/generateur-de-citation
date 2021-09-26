@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Stock\ ici.\r\n\r\n\ @author\ Fiona\ Pontoparia\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Stock()
+comment1.text=\r\n\ @param\ quantit\u00E9\ initiale\r\n
+comment2.params=NumAdd
+comment2.target=void\ add(int)
+comment2.text=\r\n\ Augmente\ la\ quantit\u00E9\ d'un\ nombre\ demand\u00E9\r\n\ \r\n\ @param\ NumAdd\ le\ nombre\ ajout\u00E9\r\n
+comment3.params=NumRemove
+comment3.target=void\ remove(int)
+comment3.text=\r\n\ Retire\ la\ quantit\u00E9\ d'un\ nombre\ demand\u00E9\r\n\ \r\n\ @param\ NumRemove\ le\ nombre\ retir\u00E9.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Retire\ la\ quantit\u00E9\ d'un\ nombre\ demand\u00E9\r\n\ \r\n\ @param\ NumRemove\ le\ nombre\ retir\u00E9.\r\n
+comment5.params=
+comment5.target=QuantityIni\ getQuantityIni()
+comment5.text=\r\n\ Recuperer\ la\ quantit\u00E9\ initiale\r\n
+numComments=6

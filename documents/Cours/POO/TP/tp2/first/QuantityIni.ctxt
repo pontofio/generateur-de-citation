@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuantityIni
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ QuantityIni\ ici.\r\n\r\n\ @author\ Fiona\ Pontoparia\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=quantityinitial
+comment1.target=QuantityIni(int)
+comment1.text=\r\n\ a\ ConveyrBelt\ is\ defined\ by\ a\ maximal\ authorized\ \ weight\r\n\ @param\ maxWeight\ maximal\ authorized\ \ weight\r\n
+comment2.params=
+comment2.target=int\ getQuantity()
+numComments=3
